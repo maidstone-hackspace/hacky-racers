@@ -1,0 +1,49 @@
+
+
+* Requirements 
++ Under £500 
++ Bumpers 
++ Foot Protection 
++ Brakes 
++ Battery Retention 
++ Kill Switch 
++ Fuse 48v = 30A Fuse (Digikey #F7139-ND) BF1 series 
++ Transponder
+
+
+* Go kart frame
+:PROPERTIES:
+:PRICE: 25.00
+:END:
+
+* Motor
+[[https://www.funbikes.co.uk/p5105_powerboard-scooter-48-volt-1500-watt-electric-motor][48v 1600w electric motor]]
+:PROPERTIES:
+:PRICE: 93.90
+:WEIGHT: 3.6 kilos
+:END:
++ Shaft 11.75 mm
++ 1600w
++ 48v
++ Sprocket is a T8F 11Teeth
++ Toque 3.5 to 4.5 Newton meters
+
+* Transponder
+:PROPERTIES:
+:PRICE: 
+:END:
+https://www.dronebit.co.uk/ilaps-fpv-drone-transponder?search=transponder
+
+* Motor Mount / gearing
+40 cm bar (no more then 20cm) to attach to frame 36.7 cm centre of holes either side 
+looking at 50 to 60 teeth gear from the 11 tooth motor
+Current shaft is 11mm on the rear 
+
+* Solve these asap :)
+
+source gears 50 - 60 teeth figure out if we need a new shaft 
+or if we can reuse the current one some how may need to weld.
+
+Order batteries and speed controller
+Order chain and gears
+
