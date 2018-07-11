@@ -1,6 +1,9 @@
+#+TITLE: Hacky racers build 
+#+COLUMNS: %50ITEM %30PRICE{+} %30WEIGHT{+}
 
 
 * Requirements 
+These are the things we have to get done as a minimum. 
 + Under £500 
 + Bumpers 
 + Foot Protection 
@@ -10,25 +13,31 @@
 + Fuse 48v = 30A Fuse (Digikey #F7139-ND) BF1 series 
 + Transponder
 
-
-* Go kart frame
+* Parts
 :PROPERTIES:
-:PRICE: 25.00
+:ID: PARTS
 :END:
 
-* Motor
+** Go kart frame
+:PROPERTIES:
+:PRICE: 25.00
+:WEIGHT: 
+:END:
+
+** Motor
 [[https://www.funbikes.co.uk/p5105_powerboard-scooter-48-volt-1500-watt-electric-motor][48v 1600w electric motor]]
 :PROPERTIES:
 :PRICE: 93.90
-:WEIGHT: 3.6 kilos
+:WEIGHT: 3.6
 :END:
++ 3.6 kils
 + Shaft 11.75 mm
 + 1600w
 + 48v
 + Sprocket is a T8F 11Teeth
 + Toque 3.5 to 4.5 Newton meters
 
-* Transponder
+** Transponder
 :PROPERTIES:
 :PRICE: 
 :END:
@@ -47,3 +56,12 @@ or if we can reuse the current one some how may need to weld.
 Order batteries and speed controller
 Order chain and gears
 
+Bill of material updated from above property draws
+#+BEGIN: columnview :id parts 
+| ITEM          | PRICE | WEIGHT |
+|---------------+-------+--------|
+| Parts         |  25.0 |        |
+| Go kart frame | 25.00 |        |
+| Motor         |       |        |
+| Transponder   |       |        |
+#+END:
