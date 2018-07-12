@@ -17,7 +17,6 @@ These are the things we have to get done as a minimum.
 :PROPERTIES:
 :ID: PARTS
 :END:
-
 ** Go kart frame
 :PROPERTIES:
 :PRICE: 25.00
@@ -25,17 +24,44 @@ These are the things we have to get done as a minimum.
 :END:
 
 ** Motor
-[[https://www.funbikes.co.uk/p5105_powerboard-scooter-48-volt-1500-watt-electric-motor][48v 1600w electric motor]]
 :PROPERTIES:
 :PRICE: 93.90
 :WEIGHT: 3.6
 :END:
+[[https://www.funbikes.co.uk/p5105_powerboard-scooter-48-volt-1500-watt-electric-motor][48v 1600w electric motor]]
 + 3.6 kils
 + Shaft 11.75 mm
 + 1600w
 + 48v
 + Sprocket is a T8F 11Teeth
 + Toque 3.5 to 4.5 Newton meters
+** Speed controller
+:PROPERTIES:
+:PRICE: 27.25
+:WEIGHT: 3.6
+:END:
+
+[[https://www.ebay.co.uk/itm/1500W-48V-Brushless-Motor-Controller-For-E-bike-Scooter-Electric-Bicycle-New/152584058222?hash=item2386b7f56e:g:5hwAAOSwjvJZP610][48v speed controller 1500w]]
+
+** Battery
+:PROPERTIES:
+:PRICE: 148.79
+:WEIGHT: 0
+:END:
+
+** Gear
+:PROPERTIES:
+:PRICE: 3.49
+:WEIGHT: 0
+:END:
+[[http://www.petrolscooter.co.uk/driven-sprocket-54-teeth-8mm-type-1.html][54 Tooth Gear]]
+** Chain
+:PROPERTIES:
+:PRICE: 4.99
+:WEIGHT: 0
+:END:
+What length ?
+[[http://www.petrolscooter.co.uk/drive-chain-midi-moto-8mm-t8f.html][8mm Chain]]
 
 ** Transponder
 :PROPERTIES:
@@ -58,10 +84,14 @@ Order chain and gears
 
 Bill of material updated from above property draws
 #+BEGIN: columnview :id parts 
-| ITEM          | PRICE | WEIGHT |
-|---------------+-------+--------|
-| Parts         |  25.0 |        |
-| Go kart frame | 25.00 |        |
-| Motor         |       |        |
-| Transponder   |       |        |
+| ITEM             |  PRICE | WEIGHT |
+|------------------+--------+--------|
+| Parts            | 303.42 |    7.2 |
+| Go kart frame    |  25.00 |        |
+| Motor            |  93.90 |    3.6 |
+| Speed controller |  27.25 |    3.6 |
+| Battery          | 148.79 |      0 |
+| Gear             |   3.49 |      0 |
+| Chain            |   4.99 |      0 |
+| Transponder      |        |        |
 #+END:
