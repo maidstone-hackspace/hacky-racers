@@ -49,6 +49,8 @@ These are the things we have to get done as a minimum.
 :WEIGHT: 0
 :END:
 
+[[https://www.ebay.co.uk/i/382479389212?chn=ps&adgroupid=53646903724&rlsatarget=pla-414252413188&abcId=1133956&adtype=pla&merchantid=114887448&poi=&googleloc=9045129&device=c&campaignid=1058615745&crdt=0][48v 15AH battery]]
+
 ** Gear
 :PROPERTIES:
 :PRICE: 3.49
