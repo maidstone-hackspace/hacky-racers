@@ -26,10 +26,10 @@ These are the things we have to get done as a minimum.
 ** Motor
 :PROPERTIES:
 :PRICE: 93.90
-:WEIGHT: 3.6
+:WEIGHT: 3600
 :END:
 [[https://www.funbikes.co.uk/p5105_powerboard-scooter-48-volt-1500-watt-electric-motor][48v 1600w electric motor]]
-+ 3.6 kils
++ 3.6 kilos
 + Shaft 11.75 mm
 + 1600w
 + 48v
@@ -38,7 +38,7 @@ These are the things we have to get done as a minimum.
 ** Speed controller
 :PROPERTIES:
 :PRICE: 27.25
-:WEIGHT: 3.6
+:WEIGHT: 0
 :END:
 
 [[https://www.ebay.co.uk/itm/1500W-48V-Brushless-Motor-Controller-For-E-bike-Scooter-Electric-Bicycle-New/152584058222?hash=item2386b7f56e:g:5hwAAOSwjvJZP610][48v speed controller 1500w]]
@@ -67,9 +67,21 @@ What length ?
 
 ** Transponder
 :PROPERTIES:
-:PRICE: 
+:PRICE: 21.27
+:WEIGHT: 20
 :END:
-https://www.dronebit.co.uk/ilaps-fpv-drone-transponder?search=transponder
+[[https://www.dronebit.co.uk/ilaps-fpv-drone-transponder?search=transponder][Suggested by hacky racing out of stock]]
+
+[[https://hobbyking.com/en_us/seriously-pro-racing-tbec-lap-time-transponder.html][Much cheaper compatible]]
+Weighs 20 grams
+
+** Fuse
+:PROPERTIES:
+:PRICE: 2.50
+:WEIGHT: 0
+:END:
+
+[[https://www.digikey.co.uk/scripts/DkSearch/dksus.dll?Detail&itemSeq=266431013&uq=636671417923718901][30A Fuse]]
 
 * Motor Mount / gearing
 40 cm bar (no more then 20cm) to attach to frame 36.7 cm centre of holes either side 
@@ -88,12 +100,13 @@ Bill of material updated from above property draws
 #+BEGIN: columnview :id parts 
 | ITEM             |  PRICE | WEIGHT |
 |------------------+--------+--------|
-| Parts            | 303.42 |    7.2 |
+| Parts            | 327.19 |   3620 |
 | Go kart frame    |  25.00 |        |
-| Motor            |  93.90 |    3.6 |
-| Speed controller |  27.25 |    3.6 |
+| Motor            |  93.90 |   3600 |
+| Speed controller |  27.25 |      0 |
 | Battery          | 148.79 |      0 |
 | Gear             |   3.49 |      0 |
 | Chain            |   4.99 |      0 |
-| Transponder      |        |        |
+| Transponder      |  21.27 |     20 |
+| Fuse             |   2.50 |      0 |
 #+END:
