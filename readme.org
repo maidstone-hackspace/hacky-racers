@@ -23,6 +23,10 @@ These are the things we have to get done as a minimum.
 :WEIGHT: 
 :END:
 
+#+attr_html: :width 10% :height 10%
+#+ATTR_ORG: :width 200
+[[file:./images/IMG_20180701_172803334.jpg]]
+
 ** Motor
 :PROPERTIES:
 :PRICE: 93.90
@@ -59,12 +63,12 @@ These are the things we have to get done as a minimum.
 [[http://www.petrolscooter.co.uk/driven-sprocket-54-teeth-8mm-type-1.html][54 Tooth Gear]]
 ** Chain
 :PROPERTIES:
-:PRICE: 4.99
+:PRICE: 11.99
 :WEIGHT: 0
 :END:
 What length ?
 [[http://www.petrolscooter.co.uk/drive-chain-midi-moto-8mm-t8f.html][8mm Chain]]
-
+[[http://www.petrolscooter.co.uk/midi-moto-pocket-bike-8mm-t8f-200cm-iron-drive-chain-split-link.html][200 cm chain]]
 ** Transponder
 :PROPERTIES:
 :PRICE: 21.27
@@ -100,13 +104,13 @@ Bill of material updated from above property draws
 #+BEGIN: columnview :id parts 
 | ITEM             |  PRICE | WEIGHT |
 |------------------+--------+--------|
-| Parts            | 327.19 |   3620 |
+| Parts            | 334.19 |   3620 |
 | Go kart frame    |  25.00 |        |
 | Motor            |  93.90 |   3600 |
 | Speed controller |  27.25 |      0 |
 | Battery          | 148.79 |      0 |
 | Gear             |   3.49 |      0 |
-| Chain            |   4.99 |      0 |
+| Chain            |  11.99 |      0 |
 | Transponder      |  21.27 |     20 |
 | Fuse             |   2.50 |      0 |
 #+END:
