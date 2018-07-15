@@ -1,5 +1,5 @@
 #+TITLE: Hacky racers build 
-#+COLUMNS: %50ITEM %30PRICE{+} %30WEIGHT{+}
+#+COLUMNS: %50ITEM %30PRICE{+} %30WEIGHT{+} %40LINK
 
 
 * Requirements 
@@ -43,9 +43,8 @@ These are the things we have to get done as a minimum.
 :PROPERTIES:
 :PRICE: 27.25
 :WEIGHT: 0
+:LINK: [[https://www.ebay.co.uk/itm/1500W-48V-Brushless-Motor-Controller-For-E-bike-Scooter-Electric-Bicycle-New/152584058222?hash=item2386b7f56e:g:5hwAAOSwjvJZP610][48v speed controller 1500w]]
 :END:
-
-[[https://www.ebay.co.uk/itm/1500W-48V-Brushless-Motor-Controller-For-E-bike-Scooter-Electric-Bicycle-New/152584058222?hash=item2386b7f56e:g:5hwAAOSwjvJZP610][48v speed controller 1500w]]
 
 ** Battery
 :PROPERTIES:
@@ -59,16 +58,14 @@ These are the things we have to get done as a minimum.
 :PROPERTIES:
 :PRICE: 3.49
 :WEIGHT: 0
+:LINK: [[http://www.petrolscooter.co.uk/driven-sprocket-54-teeth-8mm-type-1.html][54 Tooth Gear]]
 :END:
-[[http://www.petrolscooter.co.uk/driven-sprocket-54-teeth-8mm-type-1.html][54 Tooth Gear]]
 ** Chain
 :PROPERTIES:
 :PRICE: 11.99
 :WEIGHT: 0
+:LINK: [[http://www.petrolscooter.co.uk/midi-moto-pocket-bike-8mm-t8f-200cm-iron-drive-chain-split-link.html][200 cm chain]] 
 :END:
-What length ?
-[[http://www.petrolscooter.co.uk/drive-chain-midi-moto-8mm-t8f.html][8mm Chain]]
-[[http://www.petrolscooter.co.uk/midi-moto-pocket-bike-8mm-t8f-200cm-iron-drive-chain-split-link.html][200 cm chain]]
 ** Transponder
 :PROPERTIES:
 :PRICE: 21.27
@@ -81,12 +78,10 @@ Weighs 20 grams
 
 ** Fuse
 :PROPERTIES:
-:PRICE: 2.50
+:PRICE: 8.99
 :WEIGHT: 0
+:LINK: [[https://www.google.com/url?q=https://www.reichelt.com/gb/en/?LANGUAGE%3DEN%26CTYPE%3D0%26MWSTFREE%3D0%26CCOUNTRY%3D447%26ARTICLE%3D229129%26PROVID%3D2788%26wt_guka%3D55378398199_275358218349%26PROVID%3D2788%26gclid%3DCjwKCAjw4avaBRBPEiwA_ZetYtFuoTaxNbn90U6ncdIJZCzH6glGYm9sE-LL-U-1pqte253xVSqjZRoCWdwQAvD_BwE%26&sa=D&source=hangouts&ust=1531747675888000&usg=AFQjCNGJaN6JmPDP3Rh2JGK05LujfEHN_A][30A Fuse]]
 :END:
-
-[[https://www.digikey.co.uk/scripts/DkSearch/dksus.dll?Detail&itemSeq=266431013&uq=636671417923718901][30A Fuse]]
-
 * Motor Mount / gearing
 40 cm bar (no more then 20cm) to attach to frame 36.7 cm centre of holes either side 
 looking at 50 to 60 teeth gear from the 11 tooth motor
@@ -102,15 +97,15 @@ Order chain and gears
 
 Bill of material updated from above property draws
 #+BEGIN: columnview :id parts 
-| ITEM             |  PRICE | WEIGHT |
-|------------------+--------+--------|
-| Parts            | 334.19 |   3620 |
-| Go kart frame    |  25.00 |        |
-| Motor            |  93.90 |   3600 |
-| Speed controller |  27.25 |      0 |
-| Battery          | 148.79 |      0 |
-| Gear             |   3.49 |      0 |
-| Chain            |  11.99 |      0 |
-| Transponder      |  21.27 |     20 |
-| Fuse             |   2.50 |      0 |
+| ITEM             |  PRICE | WEIGHT | LINK                       |
+|------------------+--------+--------+----------------------------|
+| Parts            | 340.68 |   3620 |                            |
+| Go kart frame    |  25.00 |        |                            |
+| Motor            |  93.90 |   3600 |                            |
+| Speed controller |  27.25 |      0 | [[https://www.ebay.co.uk/itm/1500W-48V-Brushless-Motor-Controller-For-E-bike-Scooter-Electric-Bicycle-New/152584058222?hash=item2386b7f56e:g:5hwAAOSwjvJZP610][48v speed controller 1500w]] |
+| Battery          | 148.79 |      0 |                            |
+| Gear             |   3.49 |      0 | [[http://www.petrolscooter.co.uk/driven-sprocket-54-teeth-8mm-type-1.html][54 Tooth Gear]]              |
+| Chain            |  11.99 |      0 | [[http://www.petrolscooter.co.uk/midi-moto-pocket-bike-8mm-t8f-200cm-iron-drive-chain-split-link.html][200 cm chain]]               |
+| Transponder      |  21.27 |     20 |                            |
+| Fuse             |   8.99 |      0 | [[https://www.google.com/url?q=https://www.reichelt.com/gb/en/?LANGUAGE%3DEN%26CTYPE%3D0%26MWSTFREE%3D0%26CCOUNTRY%3D447%26ARTICLE%3D229129%26PROVID%3D2788%26wt_guka%3D55378398199_275358218349%26PROVID%3D2788%26gclid%3DCjwKCAjw4avaBRBPEiwA_ZetYtFuoTaxNbn90U6ncdIJZCzH6glGYm9sE-LL-U-1pqte253xVSqjZRoCWdwQAvD_BwE%26&sa=D&source=hangouts&ust=1531747675888000&usg=AFQjCNGJaN6JmPDP3Rh2JGK05LujfEHN_A][30A Fuse]]                   |
 #+END:
