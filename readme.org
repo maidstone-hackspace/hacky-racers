@@ -28,6 +28,8 @@ Around 17kg estimated
 #+ATTR_ORG: :width 200
 [[file:./images/IMG_20180701_172803334.jpg]]
 
+Wheels 25 cm diameter
+
 ** Motor
 :PROPERTIES:
 :PRICE: 93.90
@@ -44,7 +46,7 @@ Around 17kg estimated
 ** Speed controller
 :PROPERTIES:
 :PRICE: 27.25
-:WEIGHT: 0
+:WEIGHT: 1000
 :STATUS: Not Arrived
 :LINK: [[https://www.ebay.co.uk/itm/1500W-48V-Brushless-Motor-Controller-For-E-bike-Scooter-Electric-Bicycle-New/152584058222?hash=item2386b7f56e:g:5hwAAOSwjvJZP610][48v speed controller 1500w]]
 :END:
@@ -52,10 +54,11 @@ Around 17kg estimated
 ** Battery
 :PROPERTIES:
 :PRICE: 126.20
-:WEIGHT: 0
+:WEIGHT: 24000
 :STATUS: Recieved
 :LINK: [[https://www.tayna.co.uk/mobility-batteries/powerline/pl20-12/?gclid=Cj0KCQjwvqbaBRCOARIsAD9s1XBY-8FX8hpMDp2JRmgqh9-NqpchE9-1BfwNbHQRbTgZVC7Xa_xg5QkaAl5zEALw_wcB][12v 20Ah battery]]
 :END:
+6kg
 
 Each Battery is 7.5cm wide and 18cm long
 Battery arrangement 150 mm width 180 mm length, will need some spacing around the batteries.
@@ -69,11 +72,10 @@ If we cant borrow one we will have to buy one
 ** Brakes
 :PROPERTIES:
 :PRICE: 17.99
-:WEIGHT: 2400
+:WEIGHT: 0
 :STATUS: Not ordered
 :LINK: [[https://www.ebay.co.uk/itm/New-Mechanical-Disc-Brake-MTB-Bike-Set-Bicycle-Front-Rear-Caliper-160mm-Rotors/253514642035?hash=item3b06a67273%3Ag%3Af4EAAOSwwChatQiK&_sacat=0&_nkw=bike+disk+brake&_from=R40&rt=nc&_trksid=p2380057.m570.l1313.TR9.TRC0.A0.H0.Xbike+disk+brake.TRS0][Bike disk brake]]
 :END:
-6kg
 
 ** Gear
 :PROPERTIES:
@@ -130,13 +132,13 @@ Bill of material updated from above property draws
 #+BEGIN: columnview :id parts
 | ITEM             | STATUS       |              PRICE | WEIGHT | LINK                       |
 |------------------+--------------+--------------------+--------+----------------------------|
-| Parts            |              | 350.07000000000005 |  23020 |                            |
+| Parts            |              | 350.07000000000005 |  45620 |                            |
 | Go kart frame    | Recieved     |              25.00 |  17000 |                            |
 | Motor            | Recieved     |              93.90 |   3600 | [[https://www.funbikes.co.uk/p5105_powerboard-scooter-48-volt-1500-watt-electric-motor][48v 1600w electric motor]]   |
-| Speed controller | Not Arrived  |              27.25 |      0 | [[https://www.ebay.co.uk/itm/1500W-48V-Brushless-Motor-Controller-For-E-bike-Scooter-Electric-Bicycle-New/152584058222?hash=item2386b7f56e:g:5hwAAOSwjvJZP610][48v speed controller 1500w]] |
-| Battery          | Recieved     |             126.20 |      0 | [[https://www.tayna.co.uk/mobility-batteries/powerline/pl20-12/?gclid=Cj0KCQjwvqbaBRCOARIsAD9s1XBY-8FX8hpMDp2JRmgqh9-NqpchE9-1BfwNbHQRbTgZVC7Xa_xg5QkaAl5zEALw_wcB][12v 20Ah battery]]           |
+| Speed controller | Not Arrived  |              27.25 |   1000 | [[https://www.ebay.co.uk/itm/1500W-48V-Brushless-Motor-Controller-For-E-bike-Scooter-Electric-Bicycle-New/152584058222?hash=item2386b7f56e:g:5hwAAOSwjvJZP610][48v speed controller 1500w]] |
+| Battery          | Recieved     |             126.20 |  24000 | [[https://www.tayna.co.uk/mobility-batteries/powerline/pl20-12/?gclid=Cj0KCQjwvqbaBRCOARIsAD9s1XBY-8FX8hpMDp2JRmgqh9-NqpchE9-1BfwNbHQRbTgZVC7Xa_xg5QkaAl5zEALw_wcB][12v 20Ah battery]]           |
 | Battery charger  |              |                    |        |                            |
-| Brakes           | Not ordered  |              17.99 |   2400 | [[https://www.ebay.co.uk/itm/New-Mechanical-Disc-Brake-MTB-Bike-Set-Bicycle-Front-Rear-Caliper-160mm-Rotors/253514642035?hash=item3b06a67273%3Ag%3Af4EAAOSwwChatQiK&_sacat=0&_nkw=bike+disk+brake&_from=R40&rt=nc&_trksid=p2380057.m570.l1313.TR9.TRC0.A0.H0.Xbike+disk+brake.TRS0][Bike disk brake]]            |
+| Brakes           | Not ordered  |              17.99 |      0 | [[https://www.ebay.co.uk/itm/New-Mechanical-Disc-Brake-MTB-Bike-Set-Bicycle-Front-Rear-Caliper-160mm-Rotors/253514642035?hash=item3b06a67273%3Ag%3Af4EAAOSwwChatQiK&_sacat=0&_nkw=bike+disk+brake&_from=R40&rt=nc&_trksid=p2380057.m570.l1313.TR9.TRC0.A0.H0.Xbike+disk+brake.TRS0][Bike disk brake]]            |
 | Gear             | Recieved     |               3.49 |      0 | [[http://www.petrolscooter.co.uk/driven-sprocket-54-teeth-8mm-type-1.html][54 Tooth Gear]]              |
 | Cabling          | Recieved     |              13.99 |      0 | [[https://www.ebay.co.uk/itm/201950989367][5m 42amp]]                   |
 | Chain            | Recieved     |              11.99 |      0 | [[http://www.petrolscooter.co.uk/midi-moto-pocket-bike-8mm-t8f-200cm-iron-drive-chain-split-link.html][200 cm chain]]               |
