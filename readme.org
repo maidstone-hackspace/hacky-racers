@@ -37,12 +37,21 @@ Wheels 25 cm diameter
 :LINK: [[https://www.funbikes.co.uk/p5105_powerboard-scooter-48-volt-1500-watt-electric-motor][48v 1600w electric motor]]
 :STATUS: Recieved
 :END:
-+ 3.6 kilos
-+ Shaft 11.75 mm
-+ 1600w
-+ 48v
-+ Sprocket is a T8F 11Teeth
-+ Torque 3.5 to 4.5 Newton meters
+
+*** Specs
+ - Brand Name: BOMA
+ - Product Name: Brushless DC Motor 
+ - Voltage: 48V
+ - Power:1600W
+ - Rated Speed: 4800rpm
+ - Rated Torque:3.5-4.5N.m
+ - Rated Current: 38A
+ - Net  Weight: 3.6kg
+ - Length:128mm
+ - Diameter:108mm
+ - Chain Sprocket: T8F 11Teeth
+ - Shaft 11.75 mm
+ - Torque 3.5 to 4.5 Newton meters
 ** Speed controller
 :PROPERTIES:
 :PRICE: 27.25
@@ -62,6 +71,7 @@ Wheels 25 cm diameter
 
 Each Battery is 7.5cm wide and 18cm long
 Battery arrangement 150 mm width 180 mm length, will need some spacing around the batteries.
+
 
 | +- | +- |
 | -+ | -+ |
