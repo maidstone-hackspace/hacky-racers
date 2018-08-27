@@ -83,14 +83,14 @@ If we cant borrow one we will have to buy one
 :PROPERTIES:
 :PRICE: 15.59
 :WEIGHT: 0
-:STATUS: Not arrived
+:STATUS: Recieved
 :LINK: [[https://www.ebay.co.uk/itm/G3-Mechanical-Bike-Disc-Brake-Set-Front-Rear-Caliper-160mm-Rotor-Bicycle-MTB/253735338283?epid=19021229465&hash=item3b13ce012b%3Ag%3AMfMAAOSw9p9aXaGa&LH_PrefLoc=1&_sop=15&_pgn=6&_sacat=0&_nkw=mechanical+disk+brake&_from=R40&rt=nc][Bike disk brake]]
 :END:
 ** Throttle Grip
 :PROPERTIES:
 :PRICE: 3.99
 :WEIGHT: 0
-:STATUS: Not Arrived
+:STATUS: Recieved
 :LINK: [[https://www.amazon.co.uk/Universal-Black-Electric-Scooter-Throttle/dp/B00DFVOSKE/ref=cts_sp_1_vtp?pf_rd_m=A3P5ROKL5A1OLE&pf_rd_p=289595248031734904&pf_rd_r=f5cb0aa8-d427-469b-998d-816ad5df45dc&pd_rd_wg=nfUxq&pf_rd_s=desktop-detail-softlines&pf_rd_t=40701&pd_rd_i=B00DFVOSKE&pd_rd_w=5W2ax&pf_rd_i=desktop-detail-softlines&pd_rd_r=f5cb0aa8-d427-469b-998d-816ad5df45dc&_encoding=UTF8][Throttle Grip]]
 :END:
 ** Gear
@@ -143,7 +143,7 @@ Weighs 20 grams
 
 ** Misc / screw
 :PROPERTIES:
-:PRICE: 53.74
+:PRICE: 76.35
 :WEIGHT: 0
 :STATUS: Recieved
 :END:
@@ -152,7 +152,9 @@ Weighs 20 grams
 £26.55 petg plastic
 £8.01 Screws b&q
 £16.18 Foam, flux, screws
-
+£8.89 Nuts / bolts ebay
+£6.50 starlock clips
+£7.22 Bolts and bungie cord
 
 * Motor Mount / gearing
 40 cm bar (no more then 20cm) to attach to frame 36.7 cm centre of holes either side 
@@ -167,24 +169,24 @@ or if we can reuse the current one some how may need to weld.
 Bill of material updated from above property draws
 
 #+BEGIN: columnview :id parts
-| ITEM             | STATUS       |  PRICE | WEIGHT | LINK                       |
-|------------------+--------------+--------+--------+----------------------------|
-| Parts            |              | 408.85 |  45620 |                            |
-| Go kart frame    | Recieved     |  25.00 |  17000 |                            |
-| Motor            | Recieved     |  93.90 |   3600 | [[https://www.funbikes.co.uk/p5105_powerboard-scooter-48-volt-1500-watt-electric-motor][48v 1600w electric motor]]   |
-| Specs            |              |        |        |                            |
-| Speed controller | Recieved     |  27.25 |   1000 | [[https://www.ebay.co.uk/itm/1500W-48V-Brushless-Motor-Controller-For-E-bike-Scooter-Electric-Bicycle-New/152584058222?hash=item2386b7f56e:g:5hwAAOSwjvJZP610][48v speed controller 1500w]] |
-| Battery          | Recieved     | 126.20 |  24000 | [[https://www.tayna.co.uk/mobility-batteries/powerline/pl20-12/?gclid=Cj0KCQjwvqbaBRCOARIsAD9s1XBY-8FX8hpMDp2JRmgqh9-NqpchE9-1BfwNbHQRbTgZVC7Xa_xg5QkaAl5zEALw_wcB][12v 20Ah battery]]           |
-| Battery charger  |              |        |        |                            |
-| Brakes           | Not arrived  |  15.59 |      0 | [[https://www.ebay.co.uk/itm/G3-Mechanical-Bike-Disc-Brake-Set-Front-Rear-Caliper-160mm-Rotor-Bicycle-MTB/253735338283?epid=19021229465&hash=item3b13ce012b%3Ag%3AMfMAAOSw9p9aXaGa&LH_PrefLoc=1&_sop=15&_pgn=6&_sacat=0&_nkw=mechanical+disk+brake&_from=R40&rt=nc][Bike disk brake]]            |
-| Throttle Grip    | Not Arrived  |   3.99 |      0 | [[https://www.amazon.co.uk/Universal-Black-Electric-Scooter-Throttle/dp/B00DFVOSKE/ref=cts_sp_1_vtp?pf_rd_m=A3P5ROKL5A1OLE&pf_rd_p=289595248031734904&pf_rd_r=f5cb0aa8-d427-469b-998d-816ad5df45dc&pd_rd_wg=nfUxq&pf_rd_s=desktop-detail-softlines&pf_rd_t=40701&pd_rd_i=B00DFVOSKE&pd_rd_w=5W2ax&pf_rd_i=desktop-detail-softlines&pd_rd_r=f5cb0aa8-d427-469b-998d-816ad5df45dc&_encoding=UTF8][Throttle Grip]]              |
-| Gear             | Recieved     |   3.49 |      0 | [[http://www.petrolscooter.co.uk/driven-sprocket-54-teeth-8mm-type-1.html][54 Tooth Gear]]              |
-| Cabling          | Recieved     |  13.99 |      0 | [[https://www.ebay.co.uk/itm/201950989367][5m 42amp]]                   |
-| Chain            | Recieved     |  11.99 |      0 | [[http://www.petrolscooter.co.uk/midi-moto-pocket-bike-8mm-t8f-200cm-iron-drive-chain-split-link.html][200 cm chain]]               |
-| Transponder      | Not recieved |  21.27 |     20 |                            |
-| Fuse             | Recieved     |   8.99 |      0 | [[https://www.google.com/url?q=https://www.reichelt.com/gb/en/?LANGUAGE%3DEN%26CTYPE%3D0%26MWSTFREE%3D0%26CCOUNTRY%3D447%26ARTICLE%3D229129%26PROVID%3D2788%26wt_guka%3D55378398199_275358218349%26PROVID%3D2788%26gclid%3DCjwKCAjw4avaBRBPEiwA_ZetYtFuoTaxNbn90U6ncdIJZCzH6glGYm9sE-LL-U-1pqte253xVSqjZRoCWdwQAvD_BwE%26&sa=D&source=hangouts&ust=1531747675888000&usg=AFQjCNGJaN6JmPDP3Rh2JGK05LujfEHN_A][30A Fuse]]                   |
-| Pipe Clamp       | Recieved     |   3.45 |      0 | [[https://www.ebay.co.uk/itm/153103066319][8pc hose clip]]              |
-| Misc / screw     | Recieved     |  53.74 |      0 |                            |
+| ITEM             | STATUS       |              PRICE | WEIGHT | LINK                       |
+|------------------+--------------+--------------------+--------+----------------------------|
+| Parts            |              | 431.46000000000004 |  45620 |                            |
+| Go kart frame    | Recieved     |              25.00 |  17000 |                            |
+| Motor            | Recieved     |              93.90 |   3600 | [[https://www.funbikes.co.uk/p5105_powerboard-scooter-48-volt-1500-watt-electric-motor][48v 1600w electric motor]]   |
+| Specs            |              |                    |        |                            |
+| Speed controller | Recieved     |              27.25 |   1000 | [[https://www.ebay.co.uk/itm/1500W-48V-Brushless-Motor-Controller-For-E-bike-Scooter-Electric-Bicycle-New/152584058222?hash=item2386b7f56e:g:5hwAAOSwjvJZP610][48v speed controller 1500w]] |
+| Battery          | Recieved     |             126.20 |  24000 | [[https://www.tayna.co.uk/mobility-batteries/powerline/pl20-12/?gclid=Cj0KCQjwvqbaBRCOARIsAD9s1XBY-8FX8hpMDp2JRmgqh9-NqpchE9-1BfwNbHQRbTgZVC7Xa_xg5QkaAl5zEALw_wcB][12v 20Ah battery]]           |
+| Battery charger  |              |                    |        |                            |
+| Brakes           | Recieved     |              15.59 |      0 | [[https://www.ebay.co.uk/itm/G3-Mechanical-Bike-Disc-Brake-Set-Front-Rear-Caliper-160mm-Rotor-Bicycle-MTB/253735338283?epid=19021229465&hash=item3b13ce012b%3Ag%3AMfMAAOSw9p9aXaGa&LH_PrefLoc=1&_sop=15&_pgn=6&_sacat=0&_nkw=mechanical+disk+brake&_from=R40&rt=nc][Bike disk brake]]            |
+| Throttle Grip    | Recieved     |               3.99 |      0 | [[https://www.amazon.co.uk/Universal-Black-Electric-Scooter-Throttle/dp/B00DFVOSKE/ref=cts_sp_1_vtp?pf_rd_m=A3P5ROKL5A1OLE&pf_rd_p=289595248031734904&pf_rd_r=f5cb0aa8-d427-469b-998d-816ad5df45dc&pd_rd_wg=nfUxq&pf_rd_s=desktop-detail-softlines&pf_rd_t=40701&pd_rd_i=B00DFVOSKE&pd_rd_w=5W2ax&pf_rd_i=desktop-detail-softlines&pd_rd_r=f5cb0aa8-d427-469b-998d-816ad5df45dc&_encoding=UTF8][Throttle Grip]]              |
+| Gear             | Recieved     |               3.49 |      0 | [[http://www.petrolscooter.co.uk/driven-sprocket-54-teeth-8mm-type-1.html][54 Tooth Gear]]              |
+| Cabling          | Recieved     |              13.99 |      0 | [[https://www.ebay.co.uk/itm/201950989367][5m 42amp]]                   |
+| Chain            | Recieved     |              11.99 |      0 | [[http://www.petrolscooter.co.uk/midi-moto-pocket-bike-8mm-t8f-200cm-iron-drive-chain-split-link.html][200 cm chain]]               |
+| Transponder      | Not recieved |              21.27 |     20 |                            |
+| Fuse             | Recieved     |               8.99 |      0 | [[https://www.google.com/url?q=https://www.reichelt.com/gb/en/?LANGUAGE%3DEN%26CTYPE%3D0%26MWSTFREE%3D0%26CCOUNTRY%3D447%26ARTICLE%3D229129%26PROVID%3D2788%26wt_guka%3D55378398199_275358218349%26PROVID%3D2788%26gclid%3DCjwKCAjw4avaBRBPEiwA_ZetYtFuoTaxNbn90U6ncdIJZCzH6glGYm9sE-LL-U-1pqte253xVSqjZRoCWdwQAvD_BwE%26&sa=D&source=hangouts&ust=1531747675888000&usg=AFQjCNGJaN6JmPDP3Rh2JGK05LujfEHN_A][30A Fuse]]                   |
+| Pipe Clamp       | Recieved     |               3.45 |      0 | [[https://www.ebay.co.uk/itm/153103066319][8pc hose clip]]              |
+| Misc / screw     | Recieved     |              76.35 |      0 |                            |
 #+END:
 
 * Jobs
@@ -202,5 +204,6 @@ bus bar for connectors
 13 mm shaft 10mm length
 charger crocodile clips
 drill 4.3mm / 5mm holes
+
 
 
