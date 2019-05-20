@@ -133,6 +133,42 @@ Weighs 20 grams
 :STATUS: Recieved
 :LINK: [[https://www.google.com/url?q=https://www.reichelt.com/gb/en/?LANGUAGE%3DEN%26CTYPE%3D0%26MWSTFREE%3D0%26CCOUNTRY%3D447%26ARTICLE%3D229129%26PROVID%3D2788%26wt_guka%3D55378398199_275358218349%26PROVID%3D2788%26gclid%3DCjwKCAjw4avaBRBPEiwA_ZetYtFuoTaxNbn90U6ncdIJZCzH6glGYm9sE-LL-U-1pqte253xVSqjZRoCWdwQAvD_BwE%26&sa=D&source=hangouts&ust=1531747675888000&usg=AFQjCNGJaN6JmPDP3Rh2JGK05LujfEHN_A][30A Fuse]]
 :END:
+** Axel
+:PROPERTIES:
+:PRICE: 4.06
+:WEIGHT: 0
+:STATUS: Recieved
+:LINK: [[https://www.ebay.co.uk/itm/MILD-STEEL-Solid-SQUARE-or-ROUND-BAR-9-Diameters-10-Lengths-to-Choose-From/292879335118?ssPageName=STRK%3AMEBIDX%3AIT&var=591647755705&_trksid=p2057872.m2749.l2649][Axel]]
+:END:
+** Bearings
+:PROPERTIES:
+:PRICE: 3.00
+:WEIGHT: 0
+:STATUS: Recieved
+:LINK: [[https://www.ebay.co.uk/itm/Full-Range-HK-SERIES-NEEDLE-ROLLER-BEARINGS-HK1516-to-HK2220-Please-Select-Size/361122425086?ssPageName=STRK%3AMEBIDX%3AIT&var=630465282542&_trksid=p2057872.m2749.l2649][Roller bearings]]
+:END:
+** Tyres
+:PROPERTIES:
+:PRICE: 16.95
+:WEIGHT:
+:STATUS: Recieved
+:LINK: [[https://ebay.co.uk][Ebay Wheels Link expired]]
+:END:
+** Helmet
+:PROPERTIES:
+:PRICE: 18.99
+:WEIGHT: 0
+:STATUS: Recieved
+:LINK: [[https://www.ebay.co.uk/itm/Helmet-Open-Face-Scooter-Motorcycle-Motorbike-Helmet-Dual-Sun-Visor-Black-Blue/153195469528?ssPageName=STRK%3AMEBIDX%3AIT&var=453052144264&_trksid=p2057872.m2749.l2649][Scooter Helmet]]
+:END:
+** Battery Terminals
+:PROPERTIES:
+:PRICE: 4.95
+:WEIGHT: 0
+:STATUS: Recieved
+:LINK: [[https://www.ebay.co.uk/itm/Copper-Tube-Terminals-Terminal-Battery-Welding-Cable-Lug-Ring-Crimp-All-Sizes/122666453146?ssPageName=STRK%3AMEBIDX%3AIT&var=423074486272&_trksid=p2057872.m2749.l2649][Battery terminals]]
+:END:
+
 ** Pipe Clamp
 :PROPERTIES:
 :PRICE: 3.45
@@ -163,7 +199,7 @@ Current shaft is 11mm on the rear
 
 * Bill of materials
 
-source gears 50 - 60 teeth figure out if we need a new shaft 
+source gears 50 - 60 teeth figure out if we need a new shaft
 or if we can reuse the current one some how may need to weld.
 
 Bill of material updated from above property draws
